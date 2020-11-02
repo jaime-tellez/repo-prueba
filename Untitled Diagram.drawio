@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T12:42:55.146Z" agent="5.0 (Macintosh)" etag="4IhiKkcHaQG4vfW-GRST" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T12:49:15.300Z" agent="5.0 (Macintosh)" etag="5C32DU9pFLTuzwEmfq56" version="13.8.8" type="github">
   <diagram id="rOwi7XyphZKeORDImwSU" name="Page-1">
-    <mxGraphModel dx="946" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,9 +8,9 @@
           <mxGeometry x="280" y="550" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="53" width="722" height="722" as="geometry" />
+          <mxGeometry x="40" y="30" width="722" height="722" as="geometry" />
         </mxCell>
-        <mxCell id="Jg988Ya-Pu23oOCJ0d98-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-39">
+        <mxCell id="Jg988Ya-Pu23oOCJ0d98-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-39">
           <mxGeometry x="-10" y="-10" width="722" height="722" as="geometry" />
         </mxCell>
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-5" value="Proyecto Administración de cuentas personales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-39">
