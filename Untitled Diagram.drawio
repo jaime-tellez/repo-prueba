@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T13:52:56.485Z" agent="5.0 (Macintosh)" etag="QLh5Kf6Kiw4u4NIvlqh0" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T13:56:16.314Z" agent="5.0 (Macintosh)" etag="GTyvY0T811x3QytQHqba" version="13.8.8" type="github">
   <diagram id="rOwi7XyphZKeORDImwSU" name="Page-1">
     <mxGraphModel dx="946" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="20" width="780" height="1110" as="geometry" />
+          <mxGeometry x="24" y="30" width="780" height="1110" as="geometry" />
         </mxCell>
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-86" value="" style="group;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Jg988Ya-Pu23oOCJ0d98-39">
           <mxGeometry x="-8.38" width="780" height="1110" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry width="750" height="750" as="geometry" />
         </mxCell>
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-40" value="TECNOLOGÍAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-86">
-          <mxGeometry x="188.26987695487534" y="238.6225836231608" width="19.924654232232438" height="24.358130348913708" as="geometry" />
+          <mxGeometry x="74.37987695487534" y="238.6225836231608" width="19.924654232232438" height="24.358130348913708" as="geometry" />
         </mxCell>
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-35" value="" style="group" vertex="1" connectable="0" parent="Jg988Ya-Pu23oOCJ0d98-86">
           <mxGeometry x="215.7687247731849" y="295.9525245872733" width="174.12136072335457" height="206.9198317905176" as="geometry" />
@@ -60,7 +60,7 @@
           <mxGeometry x="-116.08090714890305" width="174.12136072335457" height="206.9198317905176" as="geometry" />
         </mxCell>
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-46" value="Cloud Plataforms" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-86">
-          <mxGeometry x="176.4800459996626" y="528.7858223173773" width="63.75889354314378" height="31.665569453587896" as="geometry" />
+          <mxGeometry x="64.3800459996626" y="539.1658223173773" width="63.75889354314378" height="31.665569453587896" as="geometry" />
         </mxCell>
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-5" value="Proyecto Administración de cuentas personales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-86">
           <mxGeometry x="240.23731304042005" y="169.15279732309588" width="302.8547443299331" height="24.358130348913708" as="geometry" />
