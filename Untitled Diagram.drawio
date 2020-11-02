@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T12:49:15.300Z" agent="5.0 (Macintosh)" etag="5C32DU9pFLTuzwEmfq56" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T13:01:11.312Z" agent="5.0 (Macintosh)" etag="cw_W0HXI1JZPysoCDjlO" version="13.8.8" type="github">
   <diagram id="rOwi7XyphZKeORDImwSU" name="Page-1">
-    <mxGraphModel dx="652" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="280" y="550" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="30" width="722" height="722" as="geometry" />
+          <mxGeometry x="30" y="60" width="722" height="722" as="geometry" />
         </mxCell>
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-39">
           <mxGeometry x="-10" y="-10" width="722" height="722" as="geometry" />
@@ -66,6 +66,27 @@
         </mxCell>
         <mxCell id="Jg988Ya-Pu23oOCJ0d98-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/simple-icons/128/heroku-128-black.png;fontSize=14;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-57">
           <mxGeometry x="55" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jg988Ya-Pu23oOCJ0d98-67" value="" style="group" vertex="1" connectable="0" parent="Jg988Ya-Pu23oOCJ0d98-39">
+          <mxGeometry x="330" y="380" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jg988Ya-Pu23oOCJ0d98-59" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Vercel&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Desplegar el Frontend&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=8;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-67">
+          <mxGeometry width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jg988Ya-Pu23oOCJ0d98-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/zeit-128.png;strokeColor=#FFFFFF;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-67">
+          <mxGeometry x="45" y="50" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jg988Ya-Pu23oOCJ0d98-61" value="" style="group" vertex="1" connectable="0" parent="Jg988Ya-Pu23oOCJ0d98-39">
+          <mxGeometry x="470" y="380" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jg988Ya-Pu23oOCJ0d98-68" value="" style="group" vertex="1" connectable="0" parent="Jg988Ya-Pu23oOCJ0d98-61">
+          <mxGeometry width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jg988Ya-Pu23oOCJ0d98-62" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#006666&quot;&gt;&lt;b&gt;Netlify&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Desplegar el Frontend&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=8;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-68">
+          <mxGeometry width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jg988Ya-Pu23oOCJ0d98-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#00ad9e;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/netlify-128.png;strokeColor=#0e1e24;fontSize=14;fontColor=#00ad9e;" vertex="1" parent="Jg988Ya-Pu23oOCJ0d98-68">
+          <mxGeometry x="42.5" y="55" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
